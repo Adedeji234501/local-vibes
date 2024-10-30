@@ -12,6 +12,8 @@ body {
 }
 
 header {
+    display: block;
+    justify-content: space-between;
     background-color: #33131D;
     color: #FFFFFF;
     padding: 1em;
@@ -20,9 +22,11 @@ header {
 
 header h1 {
     font-family: 'Merriweather', serif;
+    padding: 30px;
 }
 
 nav a {
+    padding: 50px;
     color: #D8FFFC;
     text-decoration: none;
     margin: 0 1em;
@@ -60,3 +64,11 @@ button:hover {
     background-color: #D8FFFC;
     color: #181818;
 }
+footer {
+    font-size: var(--small-font);
+    padding: 1em;
+    background-color: #33131D;
+    color: #FFFFFF;
+    text-align: center;
+}
+

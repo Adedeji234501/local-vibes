@@ -7,8 +7,9 @@ export async function renderCalendar() {
     const events = await fetchEvents();
     const calendar = document.getElementById('calendar');
 
+    // Group events by date
     const eventsByDate = events.reduce((acc, event) => {
-        const eventDate = new Date(event.date).toDateString();
+        const eventDate = new Date(event.date).toLocaleDateString();
         if (!acc[eventDate]) acc[eventDate] = [];
         acc[eventDate].push(event);
         return acc;
@@ -29,5 +30,6 @@ export async function renderCalendar() {
         });
 
         calendar.appendChild(dateSection);
+
     });
 }
