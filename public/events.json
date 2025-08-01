@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "name": "Lagos Food Fest",
+        "description": "A celebration of Lagos's diverse culinary scene with street food, gourmet dining, and cooking demos.",
+        "date": "2025-11-15T10:00:00",
+        "location": "Freedom Park, Lagos",
+        "image": "https://th.bing.com/th?id=OIP.rNvR15gA21pccc2xnPYu_gHaHa&w=80&h=80&c=1&vt=10&bgcl=3c3ada&r=0&o=6&dpr=2.5&pid=5.1",
+        "price": "₦500",
+        "category": "Food & Drink",
+        "url": "https://www.bing.com/ck/a?!&&p=f2499085692e83269953aea1d3323bad1b01be0829c75fc85946494b73d55d4aJmltdHM9MTczMDE2MDAwMA&ptn=3&ver=2&hsh=4&fclid=3cbe95b5-79ce-605d-1533-815678486120&psq=lagos+food+festival+2024&u=a1aHR0cHM6Ly9sYWdvc2Zvb2RmZXN0aXZhbC5jb20v&ntb=1"
+    },
+    {
+        "id": "2",
+        "name": "Lagos Music Carnival",
+        "description": "An exciting day of live music performances by top Nigerian artists.",
+        "date": "2025-11-20T18:00:00",
+        "location": "Eko Atlantic City, Lagos",
+        "image": "https://th.bing.com/th?id=OIP.bLiQmrxwIKmXeEJFjGhCYwHaFO&w=80&h=80&c=1&vt=10&bgcl=23c350&r=0&o=6&dpr=2.5&pid=5.1",
+        "price": "₦2000",
+        "category": "Music",
+        "url": "https://www.bing.com/ck/a?!&&p=559d9c666e2c23caJmltdHM9MTczMDE2MDAwMCZpZ3VpZD0zY2JlOTViNS03OWNlLTYwNWQtMTUzMy04MTU2Nzg0ODYxMjAmaW5zaWQ9NTE1Ng&ptn=3&ver=2&hsh=3&fclid=3cbe95b5-79ce-605d-1533-815678486120&u=a1L3ZpZGVvcy9zZWFyY2g_cT1MYWdvcyttdXNpYytjYXJuaXZhbCZxcHZ0PWxhZ29zK211c2ljK2Nhcm5pdmFsJkZPUk09VkRSRQ&ntb=1"
+    },
+    {
+        "id": "3",
+        "name": "Art Exhibition - Nigeria Through Colors",
+        "description": "Explore Lagos through art at this local exhibition, featuring works by upcoming Nigerian artists.",
+        "date": "2025-12-01T12:00:00",
+        "location": "Nike Art Gallery, Lagos",
+        "image": "https://th.bing.com/th?id=OLC.1YUoLFQZI%2fFrvQ480x360&rs=1&pid=ImgDetMain",
+        "price": "Free",
+        "category": "Art",
+        "url": "https://nikeartfoundation.com/"
+    },
+    {
+        "id": "4",
+        "name": "Lagos Marathon",
+        "description": "Join the annual Lagos Marathon and experience the city's vibrant spirit firsthand.",
+        "date": "2025-12-10T07:00:00",
+        "location": "Lagos Island, Lagos",
+        "image": "https://th.bing.com/th/id/OIP.bCsWcBNRl3rEcs3Ho9NLyQAAAA?rs=1&pid=ImgDetMain",
+        "price": "₦1500",
+        "category": "Sports",
+        "url": "https://lagoscitymarathon.com/general-info/"
+    },
+    {
+        "id": "5",
+        "name": "Lagos Christmas Village",
+        "description": "Celebrate the holiday season with festive decorations, food, and activities at Lagos's Christmas Village.",
+        "date": "2025-12-20T17:00:00",
+        "location": "Tafawa Balewa Square, Lagos",
+        "image": "https://tse1.mm.bing.net/th?&id=OVP.q07y90FIPXnTJDjd4yO7rwEsDh&w=330&h=186&c=7&pid=6.1&rs=1",
+        "price": "Free",
+        "category": "Festival",
+        "url": "https://www.bing.com/ck/a?!&&p=eef21e953fc2de4eJmltdHM9MTczMDE2MDAwMCZpZ3VpZD0zY2JlOTViNS03OWNlLTYwNWQtMTUzMy04MTU2Nzg0ODYxMjAmaW5zaWQ9NTMxOA&ptn=3&ver=2&hsh=3&fclid=3cbe95b5-79ce-605d-1533-815678486120&psq=christmas+village+Lagos&u=a1aHR0cHM6Ly9teWxhZ29zY2l0eS5uZy8yMDIxLzEyLzE0L3RoZS1sYWdvcy1jaHJpc3RtYXMtdmlsbGFnZS10cmVlLWxpZ2h0aW5nLWNlcmVtb255Lw&ntb=1"
+    }
+]
