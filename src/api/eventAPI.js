@@ -1,7 +1,4 @@
-
-//const apiKey = 'HZ4T72HOR6R4ORXD6THM';
-//const API_URL = 'https://www.eventbriteapi.com/v3/events/search/?location.address=Lagos&location.within=10km&token={apiKey}';
-const EVENTS_JSON_URL = '/events.json';
+const EVENTS_JSON_URL = import.meta.env.VITE_API_URL;
 
 export async function fetchEvents() {
     try {
